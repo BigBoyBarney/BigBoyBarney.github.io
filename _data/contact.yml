@@ -1,27 +1,36 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
 
+- type: youtube
+  icon: 'Youtube-new.png'
+  url:  'https://www.youtube.com/channel/UCvi4KKrGeVQzoL9v6KJP_Vg/'
+
+- type: github
+  icon: "Github-new.png"
+
+- type: discord
+  icon: 'Discord-new.png'
+  url:  'https://www.discordapp.com/users/353210479578972160'
+
+- type: rss
+  icon: "RSS-new.png"
+  noblank: true
 # - type: twitter
 #   icon: "fab fa-twitter"
 
 # - type: email
 #   icon: "fas fa-envelope"
 #   noblank: true # open link in current tab
+#
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
-# Uncomment and complete the url below to enable more contact options
 #
-# - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-- type: dehya
-  icon: 'assets/icons/dehya.ico'   # icons powered by <https://fontawesome.com/>
-  url:  'https://chirpy.cotes.page/posts/getting-started/#option-2-github-fork'                  # Fill with your Linkedin homepage
+# - type: lol
+#   icon: 'League of Legends-new.png'
+#   url:  'https://www.leagueofgraphs.com/summoner/eune/Sylphrena'
+  
+
+
+
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
