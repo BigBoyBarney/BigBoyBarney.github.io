@@ -20,10 +20,10 @@ timezone:
 
 title: Barney Explores # the main title
 
-tagline: My personal blog, where I write about things that interest me # it will display as the sub-title
+tagline: I write about things that interest me # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Barney's personal blog
+  Barney's personal blog and article collection
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://BigBoyBarney.github.io"
