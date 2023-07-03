@@ -2,18 +2,18 @@
 
 
 - type: youtube
-  icon: 'Youtube-new.png'
+  icon: 'youtube.png'
   url:  'https://www.youtube.com/channel/UCvi4KKrGeVQzoL9v6KJP_Vg/'
 
 - type: github
-  icon: "Github-new.png"
+  icon: "github.png"
 
 - type: discord
-  icon: 'Discord-new.png'
+  icon: 'discord.png'
   url:  'https://www.discordapp.com/users/353210479578972160'
 
 - type: rss
-  icon: "RSS-new.png"
+  icon: "rss.png"
   noblank: true
 # - type: twitter
 #   icon: "fab fa-twitter"
