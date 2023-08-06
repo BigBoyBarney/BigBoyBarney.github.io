@@ -14,7 +14,7 @@ I mostly write about things that I find interesting or could be useful to someon
 
 I am what you would conventionally call a nerd, with a passion for games, fantasy and anime (here is my [AniList](https://anilist.co/user/BigBoyBarney/) if you're curious). I am fluent in English, German and Hungarian, and I'm conversational in French, so I like to think that I know what I'm talking about when it comes to language learning. Since I'm currently in the process of learning Japanese, language-related posts will tend to focus on that.
 
-I hope you find something that interesting here!
+I hope you find something that interests you here!
 
 You can contact me on [Discord](https://discord.com/users/353210479578972160), [GitHub](https://github.com/BigBoyBarney) or [AniList](https://anilist.co/user/BigBoyBarney/) :)
 
